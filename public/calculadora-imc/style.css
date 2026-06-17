@@ -1,0 +1,9 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-calcular:hover{
+    background-color: rgb(91, 90, 90);
+}

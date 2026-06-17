@@ -1,0 +1,26 @@
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 40px;
+}
+
+.jogo{
+    display: flex;
+    margin-bottom: 60px; 
+    flex-direction: column;
+    flex: 2;
+}
+
+.jogo img{
+    width: 300px;
+    height: 300px;
+}
+
+.jogo button{
+    width: 4.5rem;
+    background-color: orange;
+}
+
+.textoEstoque{
+    color: red;
+}
